@@ -1,0 +1,4 @@
+In this work, it is aimed to identify the lines of the barcode from existing barcode
+pictures. The hough transform method must be used to determine these lines. 
+
+r = xcosθ + ysinθ
